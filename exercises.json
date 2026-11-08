@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Push-up",
+    "stem": "01_push-up",
+    "muscles": "Chest \u00b7 Triceps \u00b7 Front shoulders",
+    "kind": "reps"
+  },
+  {
+    "name": "Knee push-up",
+    "stem": "02_knee_push-up",
+    "muscles": "Chest \u00b7 Triceps \u00b7 Front shoulders",
+    "kind": "reps"
+  },
+  {
+    "name": "Pike push-up",
+    "stem": "03_pike_push-up",
+    "muscles": "Shoulders \u00b7 Triceps",
+    "kind": "reps"
+  },
+  {
+    "name": "Chair triceps dip",
+    "stem": "04_chair_triceps_dip",
+    "muscles": "Triceps \u00b7 Chest \u00b7 Front shoulders",
+    "kind": "reps"
+  },
+  {
+    "name": "Plank shoulder tap",
+    "stem": "05_plank_shoulder_tap",
+    "muscles": "Core \u00b7 Shoulders \u00b7 Chest",
+    "kind": "reps"
+  },
+  {
+    "name": "Forearm plank",
+    "stem": "06_forearm_plank",
+    "muscles": "Core \u00b7 Shoulders",
+    "kind": "hold"
+  },
+  {
+    "name": "Side plank",
+    "stem": "07_side_plank",
+    "muscles": "Obliques \u00b7 Core \u00b7 Glutes",
+    "kind": "hold"
+  },
+  {
+    "name": "Abdominal crunch",
+    "stem": "08_abdominal_crunch",
+    "muscles": "Rectus abdominis",
+    "kind": "reps"
+  },
+  {
+    "name": "Bicycle crunch",
+    "stem": "09_bicycle_crunch",
+    "muscles": "Obliques \u00b7 Rectus abdominis",
+    "kind": "reps"
+  },
+  {
+    "name": "Lying leg raise",
+    "stem": "10_lying_leg_raise",
+    "muscles": "Abdominals \u00b7 Hip flexors",
+    "kind": "reps"
+  }
+]
