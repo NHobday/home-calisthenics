@@ -58,5 +58,65 @@
     "stem": "10_lying_leg_raise",
     "muscles": "Abdominals \u00b7 Hip flexors",
     "kind": "reps"
+  },
+  {
+    "name": "Dead bug",
+    "stem": "11_dead_bug",
+    "muscles": "Deep core \u00b7 Hip flexors",
+    "kind": "reps"
+  },
+  {
+    "name": "Bird dog",
+    "stem": "12_bird_dog",
+    "muscles": "Core \u00b7 Lower back \u00b7 Glutes",
+    "kind": "reps"
+  },
+  {
+    "name": "Bodyweight squat",
+    "stem": "13_bodyweight_squat",
+    "muscles": "Quadriceps \u00b7 Glutes",
+    "kind": "reps"
+  },
+  {
+    "name": "Reverse lunge",
+    "stem": "14_reverse_lunge",
+    "muscles": "Quadriceps \u00b7 Glutes \u00b7 Hamstrings",
+    "kind": "reps"
+  },
+  {
+    "name": "Split squat",
+    "stem": "15_split_squat",
+    "muscles": "Quadriceps \u00b7 Glutes",
+    "kind": "reps"
+  },
+  {
+    "name": "Glute bridge",
+    "stem": "16_glute_bridge",
+    "muscles": "Glutes \u00b7 Hamstrings",
+    "kind": "reps"
+  },
+  {
+    "name": "Calf raise",
+    "stem": "17_calf_raise",
+    "muscles": "Calves",
+    "kind": "reps"
+  },
+  {
+    "name": "Jumping jack",
+    "stem": "18_jumping_jack",
+    "muscles": "Calves \u00b7 Shoulders \u00b7 Glutes",
+    "kind": "reps"
+  },
+  {
+    "name": "Mountain climber",
+    "stem": "19_mountain_climber",
+    "muscles": "Core \u00b7 Hip flexors \u00b7 Shoulders",
+    "kind": "reps"
+  },
+  {
+    "name": "Burpee",
+    "stem": "20_burpee",
+    "muscles": "Quadriceps \u00b7 Glutes \u00b7 Chest \u00b7 Core",
+    "kind": "reps"
   }
 ]
